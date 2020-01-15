@@ -1,2 +1,2 @@
-# ChallangeCandyCrush
-First Game
+# CandyCrushChallange
+ My First Unity Game
